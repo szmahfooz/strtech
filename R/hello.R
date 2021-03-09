@@ -2,6 +2,6 @@
 #' @export
 
 hello <- function() {
-  print("Hello, world! This is Zee")
+  print("Hello, world! This is Zee again")
 }
 
